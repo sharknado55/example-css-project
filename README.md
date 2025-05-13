@@ -1,1 +1,1 @@
-# examply-css-project
+# example-css-project
